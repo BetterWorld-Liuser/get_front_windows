@@ -1,0 +1,25 @@
+{
+  "name": "gfwiname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-gyp": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzhengdong2/get_front_windows.git"
+  },
+  "author": "liuser",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/liuzhengdong2/get_front_windows/issues"
+  },
+  "homepage": "https://github.com/liuzhengdong2/get_front_windows#readme"
+}
